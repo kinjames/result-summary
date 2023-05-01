@@ -74,7 +74,7 @@ body {
 
 @media screen and (max-width: 375px) {
   body {
-    padding-inline: 1rem;
+    padding-inline: 1.25rem;
   }
   .container {
     width: 100%;
