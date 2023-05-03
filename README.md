@@ -2,7 +2,7 @@
 
 ![Design preview for the Result Summary Component coding challenge](./design/desktop-preview.jpg)
 
-This is a solution to the [Result Summary Component](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN/hub/easybank-landing-page-WD9QvSMANA). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Result Summary Component](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-media-dashboard-rgPQirCtGJ#comment-62ce0b0a92ed2b163ef47b68)
-- Live Site URL: [Github](https://kinjames.github.io/easy-banking/)
+- Solution URL: [Frontend Mentor](https://github.com/kinjames/result-summary)
+- Live Site URL: [Github](https://kinjames.github.io/result-summary/)
 
 ## My process
 
