@@ -19,7 +19,7 @@ body {
 }
 
 .container {
-  width: 700px;
+  width: 650px;
   height: 100%;
   display: flex;
   box-shadow: 0px 3px 5px 1px hsl(241, 100%, 89%);
@@ -66,15 +66,65 @@ body {
   color: white;
   margin-bottom: 1rem;
 }
+.header {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
 
 .cardTwo {
   width: 50%;
   padding: 1.5rem;
 }
 
+.cardTwo p {
+  color: hsl(224, 30%, 27%);
+  margin-bottom: 1.25rem;
+}
+
+.items {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0.875rem;
+  border-radius: 0.5rem;
+  margin-bottom: 0.875rem;
+}
+
+.items .mainScore {
+  color: hsl(224, 30%, 27%);
+  font-weight: 800;
+}
+
+.items .percentile {
+  color: hsl(224, 30%, 57%);
+}
+
+.btn {
+  width: 100%;
+  border-radius: 1.5rem;
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-top: 1.15rem;
+  color: white;
+  background-color: hsl(224, 30%, 27%);
+  padding: 0.75rem;
+  outline: none;
+  border: none;
+}
+
+.text {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.items .image-text {
+  display: flex;
+  gap: 0.5rem;
+}
+
 @media screen and (max-width: 375px) {
   body {
-    padding-inline: 1.25rem;
+    padding-inline: 1rem;
   }
   .container {
     width: 100%;
