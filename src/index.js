@@ -16,8 +16,6 @@ const Container = () => {
   );
 };
 
-// const comm = <FontAwesomeIcon icon="fas fa-comment-minus" />;
-
 const CardOne = () => {
   return (
     <div className="card-one">
